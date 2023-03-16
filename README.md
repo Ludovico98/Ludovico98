@@ -1,4 +1,4 @@
-# 💫 About Ludo:
+# About Ludo:
 ### Hi there 👋 
 
 🔭 Looking for a software developer job
@@ -7,7 +7,7 @@
 
 😄 Pronouns: He/Him
 
-## ⌨️ Cool Code
+## ⌨️ Code
 
 Find shape on 2D plane  - https://github.com/Ludovico98/Playwind/blob/main/Find%20shapes%20on%20a%202D%20plane%20.cs
 
@@ -17,7 +17,7 @@ Saving system           - https://github.com/Ludovico98/FireProof/blob/main/Asse
 
 To be continued...
 
-## 💻 Tech Stack:
+## 💻 Tech Knowledge:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
