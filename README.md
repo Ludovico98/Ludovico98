@@ -5,6 +5,10 @@
 🌱 I’m currently learning / Java / Data Structure /Google Cloud Training / O' Big Notation / algorithms principles /
 😄 Pronouns: He/Him
 
+## Cool Code I wrote
+
+https://github.com/Ludovico98/Playwind/blob/main/Find%20shapes%20on%20a%202D%20plane%20.cs
+
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
