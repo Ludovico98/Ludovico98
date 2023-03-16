@@ -21,7 +21,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ludovico98&theme=vue-dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludovico98&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -31,6 +30,8 @@
 
 <!--
 Generan into account ![](https://github-readme-stats.vercel.app/api?username=Ludovico98&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ludovico98&theme=vue-dark&hide_border=false)
 
 **Ludovico98/Ludovico98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
