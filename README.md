@@ -1,11 +1,9 @@
 # About Ludo:
-### Hi there 👋 
 
 🔭 Looking for a software developer job
 
 🌱 I’m currently learning / Java / Data Structure /Google Cloud Training / O' Big Notation / algorithms principles
 
-😄 Pronouns: He/Him
 
 ## ⌨️ Code
 
