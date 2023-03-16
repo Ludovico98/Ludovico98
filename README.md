@@ -1,14 +1,18 @@
 # 💫 About Ludo:
 ### Hi there 👋 
 
-🔭 Looking for a software developer job  
+🔭 Looking for a software developer job
+
 🌱 I’m currently learning / Java / Data Structure /Google Cloud Training / O' Big Notation / algorithms principles
+
 😄 Pronouns: He/Him
 
 ## ⌨️ Cool Code
 
 Find shape on 2D plane  - https://github.com/Ludovico98/Playwind/blob/main/Find%20shapes%20on%20a%202D%20plane%20.cs
+
 Endless Running Code    - https://github.com/Ludovico98/endless-running/tree/main/Assets/Full%20Fat/C%23
+
 Saving system           - https://github.com/Ludovico98/FireProof/blob/main/Assets/C%23/SavingSystem.cs
 
 To be continued...
