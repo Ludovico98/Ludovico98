@@ -1,6 +1,6 @@
 # About Ludo:
 
-🔭 Looking for a software developer job
+🔭 Software developer
 
 🌱 I’m currently learning / Java / Data Structure /Google Cloud Training / O' Big Notation / algorithms principles
 
