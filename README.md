@@ -2,7 +2,7 @@
 
 🔭 Software developer
 
-🌱 I’m currently learning / Java / Data Structure /Google Cloud Training / O' Big Notation / algorithms principles
+🌱 I’m currently learning : Maven / Data Structure / O' Big Notation / algorithms principles
 
 
 ## ⌨️ Code
