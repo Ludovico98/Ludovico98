@@ -5,16 +5,6 @@
 🌱 I’m currently learning : Maven / Data Structure / O' Big Notation / algorithms principles
 
 
-## ⌨️ Code
-
-Find shape on 2D plane  - https://github.com/Ludovico98/Playwind/blob/main/Find%20shapes%20on%20a%202D%20plane%20.cs
-
-Endless Running Code    - https://github.com/Ludovico98/endless-running/tree/main/Assets/Full%20Fat/C%23
-
-Saving system           - https://github.com/Ludovico98/FireProof/blob/main/Assets/C%23/SavingSystem.cs
-
-To be continued...
-
 ## 💻 Tech Knowledge:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=Purple) 
 ![Java](https://img.shields.io/badge/Java-%230072C6.svg?style=for-the-badge&logo=HTML-devops&logoColor=Orange)
