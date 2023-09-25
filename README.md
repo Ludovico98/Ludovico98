@@ -1,4 +1,4 @@
-## 💻 currently working on  : Build a maven project to connect to an external api using feign client
+💻 currently working on  : Build a maven project to connect to an external api using feign client
 
 ## :mechanical_arm:
 
