@@ -1,4 +1,10 @@
-💻 currently working on  : Build a maven project to connect to an external api using feign client
+💻 currently working on :
+
+❕ Building a maven project to connect to an external api using feign client 
+❕ Unit tests and mocksing it
+❕ Add a connection to a gcp storage to read and write files
+❕ Unit tests and mocksing it
+
 
 ## :mechanical_arm:
 
@@ -20,11 +26,4 @@
 
 <!--
 
-**Ludovico98/Ludovico98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+**Ludovico98/Ludovico98** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
