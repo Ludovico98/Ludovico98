@@ -1,5 +1,4 @@
-🌱 I’m currently learning : Maven / Data Structure / O' Big Notation / algorithms principles
-
+:eyes: I’m currently  : Maven / Data Structure 
 
 ## 💻 
 
