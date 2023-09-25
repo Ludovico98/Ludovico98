@@ -1,6 +1,6 @@
-##:eyes: currently working on  : Build a maven project to connect to an external api using feign client
+## 💻 currently working on  : Build a maven project to connect to an external api using feign client
 
-## 💻 
+## :mechanical_arm:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=Purple) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
