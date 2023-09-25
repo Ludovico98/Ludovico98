@@ -20,10 +20,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ludovico98&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <!--
 
 **Ludovico98/Ludovico98** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![](https://visitcount.itsvg.in/api?id=Ludovico98&icon=0&color=0)](https://visitcount.itsvg.in)
+
