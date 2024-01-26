@@ -1,10 +1,3 @@
-💻 currently working on :
-
-❕ Building a maven project to connect to an external api using feign client 
-❕ Unit tests and mocksing it
-❕ Add a connection to a gcp storage to read and write files
-❕ Unit tests and mocksing it
-
 
 ## :mechanical_arm:
 
