@@ -5,8 +5,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=faltfor-the-badge&logo=openjdk&logoColor=white)
 ![Phyton](https://img.shields.io/badge/python-3670A0?style=faltfor-the-badge&logo=python&logoColor=ffdd54)
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=faltfor-the-badge&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=faltfor-the-badge&logo=linux&logoWidth=3:&logoColor=black)
+[![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=faltfor-the-badge&logo=intellij-idea&logoColor=white)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=faltfor-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=faltfor-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=faltfor-the-badge&logo=Trello&logoColor=white)
@@ -14,6 +18,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=faltfor-the-badge&logo=android&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=faltfor-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=faltfor-the-badge&logo=slack&logoColor=white)
+[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
 ## Certifications:
 
@@ -34,4 +42,5 @@
 **Ludovico98/Ludovico98** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![](https://visitcount.itsvg.in/api?id=Ludovico98&icon=0&color=0)](https://visitcount.itsvg.in)
+https://github.com/inttter/md-badges
 
