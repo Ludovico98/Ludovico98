@@ -25,6 +25,8 @@
 
 ## Certifications:
 
+[Associate Data Practitioner Certification](https://www.credly.com/badges/5468e621-6bca-4cad-99e3-e0ad548e6752/public_url)
+
 [Associate Cloud Engineer Certification](https://www.credly.com/badges/34a88764-6143-4498-85fe-2753fe719ab7/public_url)
 
 [Pearson Course: Google Cloud Essentials](https://www.credly.com/badges/12ac280b-3d79-415c-9f72-8162455213b4/public_url)
